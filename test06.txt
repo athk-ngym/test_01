@@ -2,4 +2,7 @@ test06.txt
 
 12345
 abcde
+fghij
+klmno
+pqrst
 

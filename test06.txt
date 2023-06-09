@@ -4,4 +4,5 @@ test06.txt
 abcde
 fghij
 klmno
+pqrst
 

@@ -2,3 +2,4 @@ test02.txt
 
 abcde
 fghij
+12345

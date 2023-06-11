@@ -3,3 +3,4 @@ test02.txt
 abcde
 fghij
 12345
+athk > 12345
